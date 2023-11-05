@@ -1,0 +1,22 @@
+h1{
+    display: block;
+    text-align:center;
+}
+.score{
+    display: block;
+    text-align: center;
+}
+.button{
+    background-color: cadetblue;
+    color: white;
+}
+.message{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+.error{
+    color: red;
+    display: block;
+    text-align: center;
+}
